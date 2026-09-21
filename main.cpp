@@ -1,9 +1,6 @@
 #include <iostream>
 
-int main(){
-    int a = 3;
-
-    std::cout<<"Hello world!"<<std::endl;
+int main() {
+    std::cout<<"Fedor.Kuznetsov"<<std::endl;
     return 0;
-
 }
